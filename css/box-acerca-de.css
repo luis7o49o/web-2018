@@ -1,0 +1,38 @@
+.contenedor {
+  width: 90%;
+  max-width: 1000px;
+  margin: auto;
+  overflow: hidden;
+  padding: 52px 0;
+}
+.sobre-nosotros {
+  text-align: center;
+  font-size: 56px;
+  margin-bottom: 10px;
+  font-weight: 600;
+}
+.slogan{
+  font-size: 24px;
+  font-weight: 300;
+  text-align: center;
+  margin-bottom: 24px;
+}
+.parrafo {
+  margin-bottom: 13px;
+  font-weight: 300;
+  text-align: justify;
+  line-height: 24px;
+  color: rgb(24,16,16);
+}
+.acerca-de .boton {
+  display: inline-block;
+  padding: 6px;
+  width: 128px;
+  border: 1px solid rgba(24,16,16,.7);
+  color: rgb(24,16,16);
+  font-size: 16px;
+  text-align: center;
+  text-decoration: none;
+  border-radius: 16px;
+  margin-top: 24px;
+}
